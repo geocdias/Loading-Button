@@ -1,6 +1,6 @@
 # Loading-Button
 
-![Home Screen](https://github.com/geocdias/Radiola/blob/main/screenshots/home_and_player.png?s=200)
+![Home Screen](https://github.com/geocdias/Loading-Button/blob/master/loading_button.gif?s=200)
 
 ## About this Project
 
